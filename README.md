@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Huseyin Kaan Akdeniz 19 years old.
+- 👋 Hi, I’m Huseyin Kaan Akdeniz 20 years old.
 - 👀 I’m interested in coding, stock market and e-commerce 
 - 🌱 I’m currently learning javascript and stock market 
 - 📫 You can reach me from this e-mail simolexbusinnes@gmail.com
